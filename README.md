@@ -8,7 +8,7 @@ A continuación, entrenaremos nuestro propio modelo de detección de objetos SSD
 
 ![image](https://github.com/johnjaider1000/jetson-train-colab/assets/8765273/d0dc279e-147e-4c4f-8e9c-07b09aa543d1)
 
-En el siguiente ejemplo, entrenaremos un modelo de detección, personalizado que localiza 8 variedades de diferentes frutas, aunque puede elegir cualquiera de las [600 clases](https://github.com/dusty-nv/pytorch-ssd/blob/master/open_images_classes.txt) en el conjunto de datos de imágenes abiertas para entrenar su modelo. Puede examinar virtualmente el conjunto de datos [aquí](https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&type=detection&c=%2Fm%2F0xfy).
+En el siguiente ejemplo, entrenaremos un modelo de detección, personalizado que localiza 2 variedades de diferentes frutas (apple, banana), aunque puede elegir cualquiera de las [600 clases](https://github.com/dusty-nv/pytorch-ssd/blob/master/open_images_classes.txt) en el conjunto de datos de imágenes abiertas para entrenar su modelo. Puede examinar virtualmente el conjunto de datos [aquí](https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&type=detection&c=%2Fm%2F0xfy).
 
 ![image](https://github.com/johnjaider1000/jetson-train-colab/assets/8765273/b43807b0-0ee3-4b05-a33f-05e4250c0ccd)
 
